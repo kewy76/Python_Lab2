@@ -1,0 +1,1 @@
+Neither of the models were perfect, since perfect mathematical models don't exist when using real-world data.  Neither of them worked particularly well, but the better one did seem to be linear, as the data was closer to being linear.

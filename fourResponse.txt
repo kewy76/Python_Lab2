@@ -1,0 +1,6 @@
+When we use the k nearest neighbor algorithm, the value we assign to k is very important.
+
+When k is larger, the accuracy of the algorithm is higher.  This is due to the fact that there are more centroids and, therefore,
+more clusters.  More clusters means that each point gets, if not the best possible fit, a very good, very accurate fit (even if it is not
+perfect.)  Meanwhile, fewer centroids lead to fewer clusters, which lead to points being assigned to inaccurate clusters because there
+is nothing better to put them in.
